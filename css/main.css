@@ -1,0 +1,80 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1458571037713-913d8b481dc6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ea44e41f0b18d77930e5b15992a5cc15);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+h3 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 10%;
+}
+
+h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10%;
+}
+
+.row {
+  padding: 10px;
+}
+
+.jumbotron {
+  background-color: rgba(255,255,255,0.4);
+}
+
+.words {
+  padding-top: 50px;
+}
+
+.contact-link {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.readable {
+  background-color: rgba(255,255,255,0.7);
+}
+
+.profile-pic {
+  border-radius: 50%;
+
+}
+
+.footer-bar {
+  background-color: #202020;
+  color: white;
+  padding-top: 8px;
+}
