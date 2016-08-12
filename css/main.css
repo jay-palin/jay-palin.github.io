@@ -37,28 +37,37 @@ img {
   margin-right: auto;
 }
 
+p {
+  font-size: 3vmin;
+}
+
 h1 {
+  font-size: 5.5vmin;
   margin-top: 50px;
   margin-bottom: 30px;
 }
 
 h2 {
+  font-size: 5vmin;
   margin-top: 50px;
   margin-bottom: 30px;
 }
 
 h3 {
+  font-size: 4.5vmin;
   margin-top: 50px;
   margin-bottom: 30px;
   margin-left: 10%;
 }
 
 h4 {
+  font-size: 4vmin;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
 h5 {
+  font-size: 3.5vmin;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: 10%;
